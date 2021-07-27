@@ -1,11 +1,17 @@
+body{
+    margin: 0;
+    margin-left: 15px;
+    margin-right: 10px;
+}
+
+
 .panda-bg-info{
-    background-color:#fceae8 ;
+    background-color:#fceae8;
 }
 .categories img{
     width: 100px;
 }
 .panda-button{
-    margin-left: 100PX;
     text-align: center;
     color:white;
     border-radius: 8px;
@@ -13,9 +19,9 @@
     border: none;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
-.container{
-    margin: 8%;
+.
 }
+
 .inner{
     overflow: hidden;
 }
@@ -27,4 +33,8 @@
 }
 .cata:hover{
 transform: scale(1.1);
+}
+.hr{
+    color: #FF136F;
+    padding: 2px;
 }
