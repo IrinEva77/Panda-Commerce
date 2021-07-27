@@ -5,9 +5,26 @@
     width: 100px;
 }
 .panda-button{
+    margin-left: 100PX;
+    text-align: center;
     color:white;
     border-radius: 8px;
     padding: 9px 25px;
     border: none;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.container{
+    margin: 8%;
+}
+.inner{
+    overflow: hidden;
+}
+.card{
+    transition: all 2s ease;
+}
+.card:hover{
+    transform: scale(1.1);
+}
+.cata:hover{
+transform: scale(1.1);
 }
