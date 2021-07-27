@@ -19,9 +19,6 @@ body{
     border: none;
     background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
 }
-.
-}
-
 .inner{
     overflow: hidden;
 }
